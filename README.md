@@ -71,7 +71,7 @@ h1{
         </h2>
      </hgroup>  
 
-<img src="images.png" alt="sk" width="500" height="400"> 
+<img src="https://user-images.githubusercontent.com/117047329/199076933-3cebf68e-9bf8-4640-a0b3-da0e33871d4a.png" alt="sk" width="500" height="400"> 
 <a href="https://www.youtube.com/channel/UCt-liwKFbIUgZeQQbye9_mA" target="_blank"><h1>Entra a mi canal de youtube</h1></a>
 
 
